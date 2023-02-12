@@ -1,2 +1,2 @@
-# chatgpt-with-javascript
+# CHAT GPT with NODE.JS
 Integration CHAT GPT + JavaScript
